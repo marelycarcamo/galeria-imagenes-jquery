@@ -1,0 +1,19 @@
+body{
+    background-color: black;
+}
+
+h1{
+    color: white;
+}
+
+#imagenes{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:space-around;
+   }
+
+img{
+    margin-bottom: 30px;
+}
+
+
