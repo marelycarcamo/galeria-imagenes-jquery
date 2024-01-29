@@ -14,5 +14,5 @@ https://marelycarcamo.github.io/galeria-imagenes-jquery/
 ## Cómo visualizar la página web
 <p align="justify">Para visualizar la página web, puedes abrir el archivo HTML en un navegador web. Asegúrate de tener los archivos CSS y JavaScript en el mismo directorio que el archivo HTML para que se apliquen correctamente los estilos y la funcionalidad.</p>
 
-<br>
+<hr>
 <p align="right">marely</p>
